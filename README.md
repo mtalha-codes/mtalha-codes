@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing a new lightweight and simple compuational language.**
 - 🌱 I'm currently learning: **📚 Exploring .NET MAUI and C# + Python**
 - 💬 Ask me about: **💡 C++ , OOPs , Mathematics ,C# and Python**
-- ⚡ Fun fact: ** 😴I once debugged a issue while trying to sleep !**
+- ⚡ Fun fact: **😴I once debugged a issue while trying to sleep !**
 
  **<h3 align="left">Skills</h3>**
 

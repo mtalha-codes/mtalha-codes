@@ -7,7 +7,7 @@
 
 - 🌱 I will learn **DSA -> Native Android Development -> Rust**
 
-- 💬 Ask me about **C++ ,**
+- 💬 Ask me about **C++ , Maths and Programming Fundamentals**
 
 - 📫 How to reach me **khankkhan123apsacs@gmail.com**
 

@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [mmqlc](https://github.com/MTalha-Codes/mmqlc)
 
-- 🌱 I’m currently learning **Python,DSA,.NET MAUI**
+- 🌱 I’ll learn **DSA,Native Android Development(Jetpack Compose) and Rust** in Future
 
 - 💬 Ask me about **math,cpp,pf**
 
 - 📫 How to reach me **khankkhan123apsacs@gmail.com**
 
-- ⚡ Fun fact **I think I am lazy**
+- ⚡ Fun fact **I think I am ambitious, but lazy !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

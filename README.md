@@ -30,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalha-codes&show_icons=true&locale=en" alt="mtalha-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalha-codes&" alt="mtalha-codes" /></p>

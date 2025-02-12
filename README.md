@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [mmqlc](https://github.com/MTalha-Codes/mmqlc)
 
-- 🌱 I will learn **DSA -> Native Android Development -> Rust**
+- 🌱 I will learn **DSA -> Native Android Development -> Python -> Rust**
 
 - 💬 Ask me about **C++ , Maths and Programming Fundamentals**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalha-codes" alt="mtalha-codes" /></a> </p>
 
-- 🔭 I’m currently working on [mmqlc](https://github.com/MTalha-Codes/mmqlc)
+- 🔭 I’m currently confused. 
 
 - 🌱 I will learn **Rust -> Python -> Quantitative Research.**
 

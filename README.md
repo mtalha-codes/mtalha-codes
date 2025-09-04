@@ -3,24 +3,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtalha-codes" alt="mtalha-codes" /></a> </p>
 
-- 🔭 I’m currently confused. 
+- 🔭 I’m currently zeroing in on Rust.
 
-- 🌱 I will learn **Rust -> Python -> Quantitative Research.**
+- 🌱 I will learn **Python -> Quantitative Research.**
 
 - 🌱 Currently learning **Rust**.
 
-- 💬 Ask me about **C++ , Rust, Maths and Programming Fundamentals**
+- 💬 Ask me about **C++ , Rust, Maths, Linux and Programming Fundamentals**
 
 - 📫 How to reach me **khankkhan123apsacs@gmail.com**
 
-- ⚡ Fun fact **I am ambitious, but lazy !**
+- ⚡ Fun fact **I use arch btw !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mtk-cpp-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtk-cpp-dev" height="30" width="40" /></a>
-<a href="https://fb.com/quantitative.trader.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="compose.droid.coder" height="30" width="40" /></a>
-<a href="https://instagram.com/quantitative_trader_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="compose_droid_coder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@talha_coding_tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@talha_coding_tutor" height="30" width="40" /></a>
+<a href="https://fb.com/its.quant.mtalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its.quant.mtalha" height="30" width="40" /></a>
+<a href="https://instagram.com/its.quant.mtalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.quant.mtalha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@its_quant_mtalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@its_quant_mtalha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

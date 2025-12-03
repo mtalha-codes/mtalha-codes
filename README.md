@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Muhammad Talha  and I am 19 years old (will turn 20 on 2026-01-21).<br>I am an aspiring Quant from Pakistan (KPK).<br>I love coding in Low Level Languges like, C++ and Rust.<br>I am currently learning Rust.<br>I will (Inshallah) start my Quant Expedition Soon !<br>I am the creator of mmqlc, a numerical DSL based calculator.<br>Ask me about: C++, Rust, OS, Linux, Math and Calculus I & II <br>A fun fact about me is that "I love diving deep into a topic".<br><br>
+My name is Muhammad Talha  and I am about 20 years old.<br>I am an aspiring Quant from Pakistan (KPK).<br>I love coding in Low Level Languges like, C++ and Rust.<br>I am not pro in rust but, a kind of intermediate you can say !<br>I am aiming to become a Quantitative Developer by 2028 Inshallah !<br>I have started **Book Of Proof by Richard Hammack**, which is an important script to strengthen your mathematical reasoning, which is an important skill for quant dev.<br>I am the creator of mmqlc, a numerical DSL based calculator.<br>Ask me about: C++, Rust, OS, Linux, Math and Calculus I & II <br>A fun fact about me is that "I love diving deep into a topic".<br><br>
 
 
 ## 🌐 Socials:

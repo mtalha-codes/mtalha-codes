@@ -22,5 +22,3 @@ My name is Muhammad Talha  and I am about 20 years old.<br>I am an aspiring Quan
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mtalha-codes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

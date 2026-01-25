@@ -10,13 +10,11 @@ My name is Muhammad Talha, and I am a 20-year-old aspiring Quantitative Develope
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mtalha-codes&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mtalha-codes&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalha-codes&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muhammadtalha-quant&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadtalha-quant&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalha-quant&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 My GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=mtalha-codes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=muhammadtalha-quant&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Quotes by Random Devs:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
